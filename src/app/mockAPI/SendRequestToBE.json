@@ -1,0 +1,30 @@
+{
+   "KeyData": {
+      "ClientId": "DEM",
+      "ClientDealerId": "116627",
+      "DTDealerId": "116627",
+      "RequestDate": "/Date(1493254301893-0400)/"
+   },
+   "Vehicle": {
+      "BookType": "2",
+      "Type": "1"
+   },
+   "Finance": {
+      "DealType": "1"
+     
+   },
+   "Products": [
+      {
+         "ProductTypeCode": "VSC",
+         "ProviderId": "APC",
+         "ProviderDealerId": ""
+         
+      },
+      {
+         "ProductTypeCode": "AP",
+         "ProviderId": "APC",
+         "ProviderDealerId": ""
+         
+      }
+   ]
+}
